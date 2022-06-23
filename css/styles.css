@@ -1,22 +1,27 @@
+
 body {
     font-family: Tahoma, sans-serif;
     background-color: lightgoldenrodyellow;
     color: rgb(83, 98, 125);
 }
 
-
-
-img {
-    height: auto;
-    width: 600px;
+.dishimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 
 }
+
+ 
 
 p {
     color:rgb(104, 62, 159);
     font-size: 1.5em;
 }
 
-h3 {
+h3, h1 {
     font-family:'Times New Roman', Times, serif;
+    text-align: center;
+
 }
