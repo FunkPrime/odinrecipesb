@@ -1,5 +1,22 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: lightgoldenrodyellow;
+    color: rgb(83, 98, 125);
+}
+
+
+
 img {
     height: auto;
     width: 600px;
 
+}
+
+p {
+    color:rgb(104, 62, 159);
+    font-size: 1.5em;
+}
+
+h3 {
+    font-family:'Times New Roman', Times, serif;
 }
