@@ -13,8 +13,6 @@ body {
 
 }
 
- 
-
 p {
     color:rgb(104, 62, 159);
     font-size: 1.5em;
@@ -24,4 +22,9 @@ h3, h1 {
     font-family:'Times New Roman', Times, serif;
     text-align: center;
 
+}
+footer {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.3em;
 }
